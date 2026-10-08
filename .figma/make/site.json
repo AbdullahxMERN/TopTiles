@@ -1,0 +1,10 @@
+{
+  "description": "Showcases premium tile collections with elegant design and smooth scrolling to help users explore and inquire about high-quality architectural materials.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
